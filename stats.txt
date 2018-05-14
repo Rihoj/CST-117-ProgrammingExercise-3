@@ -1,0 +1,4 @@
+Alphabetically First word: a
+Alphabetically Last word: trying
+Longest Word: information
+Word with the most vowels: information
